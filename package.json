@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/marioecg/IknowhowIfeel/issues"
   },
-  "homepage": "https://github.com/marioecg/IknowhowIfeel#readme"
+  "homepage": "https://github.com/marioecg/IknowhowIfeel#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
